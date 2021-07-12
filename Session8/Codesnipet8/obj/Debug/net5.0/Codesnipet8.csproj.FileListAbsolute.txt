@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Session8\Codesnipet8\bin\Debug\net5.0\Codesnipet8.exe
+C:\Users\Admin\source\repos\Session8\Codesnipet8\bin\Debug\net5.0\Codesnipet8.deps.json
+C:\Users\Admin\source\repos\Session8\Codesnipet8\bin\Debug\net5.0\Codesnipet8.runtimeconfig.json
+C:\Users\Admin\source\repos\Session8\Codesnipet8\bin\Debug\net5.0\Codesnipet8.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Session8\Codesnipet8\bin\Debug\net5.0\Codesnipet8.dll
+C:\Users\Admin\source\repos\Session8\Codesnipet8\bin\Debug\net5.0\ref\Codesnipet8.dll
+C:\Users\Admin\source\repos\Session8\Codesnipet8\bin\Debug\net5.0\Codesnipet8.pdb
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.dll
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\ref\Codesnipet8.dll
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.pdb
+C:\Users\Admin\source\repos\Session8\Codesnipet8\obj\Debug\net5.0\Codesnipet8.genruntimeconfig.cache
