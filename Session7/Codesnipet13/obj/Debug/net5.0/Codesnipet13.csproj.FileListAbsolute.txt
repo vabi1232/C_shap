@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Session7\Codesnipet13\bin\Debug\net5.0\Codesnipet13.exe
+C:\Users\Admin\source\repos\Session7\Codesnipet13\bin\Debug\net5.0\Codesnipet13.deps.json
+C:\Users\Admin\source\repos\Session7\Codesnipet13\bin\Debug\net5.0\Codesnipet13.runtimeconfig.json
+C:\Users\Admin\source\repos\Session7\Codesnipet13\bin\Debug\net5.0\Codesnipet13.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Session7\Codesnipet13\bin\Debug\net5.0\Codesnipet13.dll
+C:\Users\Admin\source\repos\Session7\Codesnipet13\bin\Debug\net5.0\ref\Codesnipet13.dll
+C:\Users\Admin\source\repos\Session7\Codesnipet13\bin\Debug\net5.0\Codesnipet13.pdb
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\Codesnipet13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\Codesnipet13.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\Codesnipet13.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\Codesnipet13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\Codesnipet13.dll
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\ref\Codesnipet13.dll
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\Codesnipet13.pdb
+C:\Users\Admin\source\repos\Session7\Codesnipet13\obj\Debug\net5.0\Codesnipet13.genruntimeconfig.cache

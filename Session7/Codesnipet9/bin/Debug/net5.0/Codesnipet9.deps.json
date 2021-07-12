@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Codesnipet9/1.0.0": {
+        "runtime": {
+          "Codesnipet9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codesnipet9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
