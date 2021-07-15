@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\bin\Debug\net5.0\IssyesWithNonGenericCollections.exe
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\bin\Debug\net5.0\IssyesWithNonGenericCollections.deps.json
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\bin\Debug\net5.0\IssyesWithNonGenericCollections.runtimeconfig.json
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\bin\Debug\net5.0\IssyesWithNonGenericCollections.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\bin\Debug\net5.0\IssyesWithNonGenericCollections.dll
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\bin\Debug\net5.0\ref\IssyesWithNonGenericCollections.dll
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\bin\Debug\net5.0\IssyesWithNonGenericCollections.pdb
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.dll
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\ref\IssyesWithNonGenericCollections.dll
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.pdb
+C:\Users\Admin\source\repos\Example\IssyesWithNonGenericCollections\obj\Debug\net5.0\IssyesWithNonGenericCollections.genruntimeconfig.cache

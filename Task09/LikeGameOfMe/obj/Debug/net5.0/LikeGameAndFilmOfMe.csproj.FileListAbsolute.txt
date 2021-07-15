@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\bin\Debug\net5.0\LikeGameAndFilmOfMe.exe
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\bin\Debug\net5.0\LikeGameAndFilmOfMe.deps.json
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\bin\Debug\net5.0\LikeGameAndFilmOfMe.runtimeconfig.json
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\bin\Debug\net5.0\LikeGameAndFilmOfMe.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\bin\Debug\net5.0\LikeGameAndFilmOfMe.dll
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\bin\Debug\net5.0\ref\LikeGameAndFilmOfMe.dll
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\bin\Debug\net5.0\LikeGameAndFilmOfMe.pdb
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.dll
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\ref\LikeGameAndFilmOfMe.dll
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.pdb
+C:\Users\Admin\source\repos\Example\LikeGameOfMe\obj\Debug\net5.0\LikeGameAndFilmOfMe.genruntimeconfig.cache
