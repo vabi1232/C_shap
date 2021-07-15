@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\bin\Debug\net5.0\Mod2_lab01(Abtracst).exe
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\bin\Debug\net5.0\Mod2_lab01(Abtracst).deps.json
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\bin\Debug\net5.0\Mod2_lab01(Abtracst).runtimeconfig.json
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\bin\Debug\net5.0\Mod2_lab01(Abtracst).runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\bin\Debug\net5.0\Mod2_lab01(Abtracst).dll
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\bin\Debug\net5.0\ref\Mod2_lab01(Abtracst).dll
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\bin\Debug\net5.0\Mod2_lab01(Abtracst).pdb
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).dll
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\ref\Mod2_lab01(Abtracst).dll
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).pdb
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).genruntimeconfig.cache
+C:\Users\Admin\source\repos\Task08\Mod2_lab01(Abtracst)\obj\Debug\net5.0\Mod2_lab01(Abtracst).csproj.AssemblyReference.cache

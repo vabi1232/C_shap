@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\bin\Debug\net5.0\Self_Assessnet_lAB.exe
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\bin\Debug\net5.0\Self_Assessnet_lAB.deps.json
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\bin\Debug\net5.0\Self_Assessnet_lAB.runtimeconfig.json
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\bin\Debug\net5.0\Self_Assessnet_lAB.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\bin\Debug\net5.0\Self_Assessnet_lAB.dll
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\bin\Debug\net5.0\ref\Self_Assessnet_lAB.dll
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\bin\Debug\net5.0\Self_Assessnet_lAB.pdb
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\Self_Assessnet_lAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\Self_Assessnet_lAB.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\Self_Assessnet_lAB.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\Self_Assessnet_lAB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\Self_Assessnet_lAB.dll
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\ref\Self_Assessnet_lAB.dll
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\Self_Assessnet_lAB.pdb
+C:\Users\Admin\source\repos\Task08\Self_Assessnet_lAB\obj\Debug\net5.0\Self_Assessnet_lAB.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\bin\Debug\net5.0\Moduel3_Lab02.exe
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\bin\Debug\net5.0\Moduel3_Lab02.deps.json
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\bin\Debug\net5.0\Moduel3_Lab02.runtimeconfig.json
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\bin\Debug\net5.0\Moduel3_Lab02.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\bin\Debug\net5.0\Moduel3_Lab02.dll
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\bin\Debug\net5.0\ref\Moduel3_Lab02.dll
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\bin\Debug\net5.0\Moduel3_Lab02.pdb
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\Moduel3_Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\Moduel3_Lab02.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\Moduel3_Lab02.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\Moduel3_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\Moduel3_Lab02.dll
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\ref\Moduel3_Lab02.dll
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\Moduel3_Lab02.pdb
+C:\Users\Admin\source\repos\Task08\Moduel3_Lab02\obj\Debug\net5.0\Moduel3_Lab02.genruntimeconfig.cache
