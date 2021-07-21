@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Partice\Exercies2\bin\Debug\net5.0\Exercies2.exe
+C:\Users\Admin\source\repos\Partice\Exercies2\bin\Debug\net5.0\Exercies2.deps.json
+C:\Users\Admin\source\repos\Partice\Exercies2\bin\Debug\net5.0\Exercies2.runtimeconfig.json
+C:\Users\Admin\source\repos\Partice\Exercies2\bin\Debug\net5.0\Exercies2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Partice\Exercies2\bin\Debug\net5.0\Exercies2.dll
+C:\Users\Admin\source\repos\Partice\Exercies2\bin\Debug\net5.0\ref\Exercies2.dll
+C:\Users\Admin\source\repos\Partice\Exercies2\bin\Debug\net5.0\Exercies2.pdb
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\Exercies2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\Exercies2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\Exercies2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\Exercies2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\Exercies2.dll
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\ref\Exercies2.dll
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\Exercies2.pdb
+C:\Users\Admin\source\repos\Partice\Exercies2\obj\Debug\net5.0\Exercies2.genruntimeconfig.cache

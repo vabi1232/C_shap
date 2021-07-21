@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Partice\GeometryExample\bin\Debug\net5.0\GeometryExample.exe
+C:\Users\Admin\source\repos\Partice\GeometryExample\bin\Debug\net5.0\GeometryExample.deps.json
+C:\Users\Admin\source\repos\Partice\GeometryExample\bin\Debug\net5.0\GeometryExample.runtimeconfig.json
+C:\Users\Admin\source\repos\Partice\GeometryExample\bin\Debug\net5.0\GeometryExample.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Partice\GeometryExample\bin\Debug\net5.0\GeometryExample.dll
+C:\Users\Admin\source\repos\Partice\GeometryExample\bin\Debug\net5.0\ref\GeometryExample.dll
+C:\Users\Admin\source\repos\Partice\GeometryExample\bin\Debug\net5.0\GeometryExample.pdb
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.dll
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\ref\GeometryExample.dll
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.pdb
+C:\Users\Admin\source\repos\Partice\GeometryExample\obj\Debug\net5.0\GeometryExample.genruntimeconfig.cache
